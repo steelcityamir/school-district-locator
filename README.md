@@ -52,13 +52,16 @@ pip install -r requirements.txt
 
 ### Usage
 
-To use the School District Locator, run the script from your command line, and enter the requested address information when prompted:
+Run the script from your command line:
 
 ```bash
 python3 locator.py
 ```
 
 Follow the on-screen prompts to input the street address, city, state, and ZIP code for the location you're interested in.
+
+![screenshot](https://github.com/codebyamir/school-district-locator/assets/54147931/10f754b4-fc2e-4eac-8d7b-d18bd7a6a5a9)
+
 
 ## License
 
@@ -67,6 +70,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - U.S. Census Bureau for providing the Geocoding Services API.
+- National Center for Education Statistics (NECS) for providing school district data.
 - The GeoPandas team for their excellent work on the geospatial analysis library.
 
 ## Support

@@ -20,7 +20,7 @@ Ensure you have Python 3.6+ installed on your system.
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/codebyamir/school-district-locator.git
+git clone https://github.com/steelcityamir/school-district-locator.git
 ```
 
 Navigate to the cloned directory:
@@ -60,7 +60,7 @@ python3 locator.py
 
 Follow the on-screen prompts to input the street address, city, state, and ZIP code for the location you're interested in.
 
-![screenshot](https://github.com/codebyamir/school-district-locator/assets/54147931/10f754b4-fc2e-4eac-8d7b-d18bd7a6a5a9)
+![screenshot](https://github.com/steelcityamir/school-district-locator/assets/54147931/10f754b4-fc2e-4eac-8d7b-d18bd7a6a5a9)
 
 
 ## License
